@@ -1,0 +1,15 @@
+Una sola query genera el availability queue:
+
+scheduled query every 1hour cada hora y 34 minutes : tiai_g_merge_practice_production_for_availability_queue
+link:
+https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sti-ca-ml-start!2sus-central1!3scb0e1379-0de7-4aab-a726-a4df7fef4dbc!2e1
+
+Spreadsheet connected quick for visiblity:
+https://docs.google.com/spreadsheets/d/14wGIt9qwklgL-Ws1oFgH-yY7QJiFSOLWDrjwJNpSQrU/edit?gid=1373958770#gid=1373958770
+
+Looker: https://lookerstudio.google.com/reporting/68e9bf03-998c-4276-95c1-6755824e3c15/page/p_enofww71ld/edit
+
+DataSource: AvailabilityQueue
+
+helper files:
+https://docs.google.com/spreadsheets/d/1hxnK-XVg9P1c2bkg5XBRC3KfGlip8oA9k13OEhyMoJw/edit?gid=423229516#gid=4232295
